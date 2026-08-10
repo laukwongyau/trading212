@@ -5,10 +5,10 @@ description = "A Streamlit dashboard for Trading212 holdings, ROI, and recent ac
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
-    "streamlit>=1.60.0",
-    "requests>=2.32.0",
-    "pandas>=2.2.0",
-    "plotly>=5.24.0",
+    "streamlit>=1.61.1",
+    "requests>=2.34.2",
+    "pandas>=3.0.5",
+    "plotly>=6.9.0",
 ]
 
 [tool.uv]
